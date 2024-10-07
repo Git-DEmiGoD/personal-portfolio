@@ -1,0 +1,215 @@
+@import url('./variables.css'); /* variables */
+
+/* headings */
+
+.heading-xlarge {
+    font-size: 160px;
+    line-height: 100%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-xlarge-italic {
+    font-size: 160px;
+    line-height: 100%;
+    font-family: var(--font-gambetta);
+}
+
+.heading-large {
+    font-size: 128px;
+    line-height: 100%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-large-italic {
+    font-size: 128px;
+    line-height: 100%;
+    font-family: var(--font-gambetta);
+}
+
+.heading-medium {
+    font-size: 96px;
+    line-height: 100%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-medium-italic {
+    font-size: 96px;
+    line-height: 100%;
+    font-family: var(--font-gambetta);
+}
+
+.heading-small {
+    font-size: 80px;
+    line-height: 100%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-small-italic {
+    font-size: 80px;
+    line-height: 110%;
+    font-family: var(--font-gambetta);
+}
+
+.heading-h1 {
+    font-size: 64px;
+    line-height: 110%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-h1-italic {
+    font-size: 64px;
+    line-height: 110%;
+    font-family: var(--font-gambetta);
+}
+
+.heading-h1-uppercase {
+    font-size: 64px;
+    line-height: 110%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-h2 {
+    font-size: 48px;
+    line-height: 110%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-h2-italic {
+    font-size: 48px;
+    line-height: 110%;
+    font-family: var(--font-gambetta);
+}
+
+.heading-h2-uppercase {
+    font-size: 48px;
+    line-height: 110%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-h3 {
+    font-size: 32px;
+    line-height: 120%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-h3-italic {
+    font-size: 32px;
+    line-height: 110%;
+    font-family: var(--font-gambetta);
+}
+
+.heading-h3-uppercase {
+    font-size: 32px;
+    line-height: 120%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-h4 {
+    font-size: 24px;
+    line-height: 130%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-h4-italic {
+    font-size: 24px;
+    line-height: 140%;
+    font-family: var(--font-gambetta);
+}
+
+.heading-h4-uppercase {
+    font-size: 24px;
+    line-height: 130%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-h5 {
+    font-size: 20px;
+    line-height: 140%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-h5-italic {
+    font-size: 20px;
+    line-height: 140%;
+    font-family: var(--font-gambetta);
+}
+
+.heading-h5-uppercase {
+    font-size: 20px;
+    line-height: 140%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-h6 {
+    font-size: 18px;
+    line-height: 130%;
+    font-family: var(--font-satoshi);
+}
+
+.heading-h6-italic {
+    font-size: 18px;
+    line-height: 140%;
+    font-family: var(--font-gambetta);
+}
+
+.heading-h6-uppercase {
+    font-size: 18px;
+    line-height: 130%;
+    font-family: var(--font-satoshi);
+}
+
+/* text */
+
+.text-xlarge {
+    font-size: 24px;
+    line-height: 150%;
+    font-family: var(--font-chillax);
+}
+
+.text-large {
+    font-size: 20px;
+    line-height: 170%;
+    font-family: var(--font-chillax);
+}
+
+.text-medium {
+    font-size: 18px;
+    line-height: 160%;
+    font-family: var(--font-chillax);
+}
+
+.text-default {
+    font-size: 16px;
+    line-height: 180%;
+    font-family: var(--font-chillax);
+}
+
+.text-small {
+    font-size: 14px;
+    line-height: 160%;
+    font-family: var(--font-chillax);
+}
+
+.text-xsmall {
+    font-size: 12px;
+    line-height: 180%;
+    font-family: var(--font-chillax);
+}
+
+.text-meta-large {
+    font-size: 14px;
+    line-height: 140%;
+    font-family: var(--font-chillax);
+}
+
+.text-meta {
+    font-size: 13px;
+    line-height: 160%;
+    font-family: var(--font-chillax);
+}
+
+.text-meta-small {
+    font-size: 12px;
+    line-height: 120%;
+    font-family: var(--font-chillax);
+}

@@ -1,7 +1,30 @@
+@import url('../assets/fonts/fonts.css'); /* fonts */
+
 :root {
-    --primary-color: #3498db;
-    --secondary-color: #2ecc71;
-    --font-heading: 'Poppins', sans-serif;
-    --font-body: 'Roboto', sans-serif;
-    --spacing-unit: 16px;
-  }
+
+  /* colours */
+
+  --text-default : #DAC5A7;
+  --text-muted : #DAC5A799;
+  --text-inverse : #0E0E0E;
+  --text-muted-inverse : #FFFFFF99;
+  
+  --background-default : #0E0E0E;
+  --background-primary : #DAC5A7;
+  --background-secondary : #1A1A1A;
+  --background-muted-1 : #DAC5A70D;
+  --background-muted-2 : #FFFFFF12;
+  
+  --border-default : #DAC5A726;
+  --border-inverse : #FFFFFF1F;
+  
+  --icon-default : #DAC5A7;
+  --icon-inverse : #0E0E0E;
+
+  /* text-styles */
+
+  --font-satoshi: 'Satoshi', sans-serif;
+  --font-gambetta: 'Gambetta', serif;
+  --font-chillax: 'Chillax', cursive;
+
+}
