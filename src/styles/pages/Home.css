@@ -1,0 +1,8 @@
+  .hero-section {
+    /* Fix the hero section at the top and make it move smoothly */
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .hero-content {
+    transition: all 0.2s ease-in-out;
+}

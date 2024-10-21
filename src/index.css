@@ -1,8 +1,12 @@
-@import './styles/variables.css';
+@import 'normalize.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-body {
-  font-family: var(--font-body);
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+:root {
+    @apply bg-slate-900;
+}
+
+* {
+    cursor: default;
 }

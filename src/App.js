@@ -6,11 +6,11 @@ import routesMapping from './routes/routesMapping';
 function App() {
   return (
     <Router>
-      <Routes>
-        {routesMapping.map((route, index) => (
-          <Route key={index} path={route.path} element={<route.component />} />
-        ))}
-      </Routes>
+        <Routes>
+          {routesMapping.map((route, index) => (
+            <Route key={index} path={route.path} element={<route.component />} />
+          ))}
+        </Routes>
     </Router>
   );
 }
