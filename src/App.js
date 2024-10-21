@@ -5,7 +5,7 @@ import routesMapping from './routes/routesMapping';
 
 function App() {
   return (
-    <Router basename='/personal-portfolio'>
+    <Router basename={process.env.NODE_ENV === 'production' ? '/personal-portfolio' : '/'}>
         <Routes>
           {routesMapping.map((route, index) => (
             <Route key={index} path={route.path} element={<route.component />} />
