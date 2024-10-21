@@ -6,7 +6,7 @@ import routesMapping from './routes/routesMapping';
 function App() {
   return (
     <Router>
-        <Routes>
+        <Routes basename='/personal-portfolio'>
           {routesMapping.map((route, index) => (
             <Route key={index} path={route.path} element={<route.component />} />
           ))}
