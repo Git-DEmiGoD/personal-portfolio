@@ -123,7 +123,7 @@ const HomePage = () => {
             customClassName='w-full'
             heading='Design Philosophy'
           >
-            <img src="/images/design_philosophy_bg.svg" alt="design philosophy" />
+            <img src="images/design_philosophy_bg.svg" alt="design philosophy" />
           </CommonBox>
           <CommonBox
             customId='design_philosophy'
@@ -132,7 +132,7 @@ const HomePage = () => {
             customClassName='w-full'
             heading='Design Philosophy'
           >
-            <img src="/images/design_philosophy_bg.svg" alt="design philosophy" />
+            <img src="images/design_philosophy_bg.svg" alt="design philosophy" />
           </CommonBox>
           <CommonBox
             customId='design_philosophy'
@@ -141,7 +141,7 @@ const HomePage = () => {
             customClassName='w-full'
             heading='Design Philosophy'
           >
-            <img src="/images/design_philosophy_bg.svg" alt="design philosophy" />
+            <img src="images/design_philosophy_bg.svg" alt="design philosophy" />
           </CommonBox>
           <CommonBox
             customId='design_philosophy'
@@ -150,7 +150,7 @@ const HomePage = () => {
             customClassName='w-full'
             heading='Design Philosophy'
           >
-            <img src="/images/design_philosophy_bg.svg" alt="design philosophy" />
+            <img src="images/design_philosophy_bg.svg" alt="design philosophy" />
           </CommonBox>
           <CommonBox
             customId='design_philosophy'
@@ -159,7 +159,7 @@ const HomePage = () => {
             customClassName='w-full'
             heading='Design Philosophy'
           >
-            <img src="/images/design_philosophy_bg.svg" alt="design philosophy" />
+            <img src="images/design_philosophy_bg.svg" alt="design philosophy" />
           </CommonBox>
         </main>
       </div>
